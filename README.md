@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [ReactJS](https://reactjs.org/), [Chakra UI](https://chakra-ui.com/) and [Storybook](https://storybook.js.org/)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla&layout=compact)
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=randyphalla&theme=default&show_icons=true&count_private=true&title_color=ff001f&text_color=040303)
