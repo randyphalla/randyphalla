@@ -4,7 +4,9 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla)
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=randyphalla&theme=default&show_icons=true&count_private=true&title_color=ff001f&text_color=040303)
+-->
 
 <!--
 **randyphalla/randyphalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
