@@ -2,6 +2,8 @@
 
 🌱 I’m currently learning [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [ReactJS](https://reactjs.org/), [Chakra UI](https://chakra-ui.com/) and [Storybook](https://storybook.js.org/)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla)
+
 <!--
 **randyphalla/randyphalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
