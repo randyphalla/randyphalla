@@ -4,7 +4,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla&layout=compact)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=randyphalla&repo=randyphalla.github.io)](https://github.com/randyphalla/randyphalla.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=randyphalla&repo=randyphalla.github.io&theme=radical)](https://github.com/randyphalla/randyphalla.github.io)
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=randyphalla&theme=default&show_icons=true&count_private=true&title_color=ff001f&text_color=040303)
