@@ -2,11 +2,11 @@
 
 🌱 I’m currently learning [Angular](https://angular.io/), [Ionic](https://ionicframework.com/), [ReactJS](https://reactjs.org/), [Chakra UI](https://chakra-ui.com/) and [Storybook](https://storybook.js.org/)
 
+<!--
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla&layout=compact)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=randyphalla&repo=randyphalla.github.io&theme=radical)](https://github.com/randyphalla/randyphalla.github.io)
 
-<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=randyphalla&theme=default&show_icons=true&count_private=true&title_color=ff001f&text_color=040303)
 -->
 
