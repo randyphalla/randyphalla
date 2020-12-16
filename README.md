@@ -1,26 +1,3 @@
 ### Hi there 👋, I'm Randy Phalla
 
-🌱 I’m currently learning [Angular](https://angular.io/), [Ionic](https://ionicframework.com), [ReactJS](https://reactjs.org), [TypeScript](https://www.typescriptlang.org), [Chakra UI](https://chakra-ui.com) and [Storybook](https://storybook.js.org)
-
-<!--
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=randyphalla&layout=compact)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=randyphalla&repo=randyphalla.github.io&theme=radical)](https://github.com/randyphalla/randyphalla.github.io)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=randyphalla&theme=default&show_icons=true&count_private=true&title_color=ff001f&text_color=040303)
--->
-
-<!--
-**randyphalla/randyphalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning [Angular](https://angular.io/), [Ionic](https://ionicframework.com), [ReactJS](https://reactjs.org), [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org), [Chakra UI](https://chakra-ui.com), [Tailwind CSS](https://tailwindcss.com) and [Storybook](https://storybook.js.org)
